@@ -1,1 +1,9 @@
-["VL53L1X"]
+[
+  {
+    "displayName": "VL53L1X 4 Meter LIDAR Sensor",
+    "type": "VL53L1X",
+    "category": "SEN-DIST",
+    "heroImgUrl": "https://cdn.lumynlabs.com/VL53L1X/main.jpg",
+    "connectionTypes": ["I2C"]
+  }
+]
