@@ -4,7 +4,7 @@
   "category": "SEN-DIST",
   "connectionTypes": ["I2C"],
   "storeLink": "https://www.sparkfun.com/products/14722",
-  "heroImgUrl": "main.jpg",
+  "heroImgUrl": "hero.jpg",
   "additionalImgUrls": ["front.jpg", "front-measured.jpg"],
   "datasheet": "https://cdn.sparkfun.com/assets/8/9/9/a/6/VL53L0X_DS.pdf",
   "configOptions": [
