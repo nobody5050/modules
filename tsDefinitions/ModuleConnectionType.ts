@@ -1,0 +1,1 @@
+export type ModuleConnectionType = 'I2C' | 'SPI' | 'UART' | 'DIO' | 'AIO';
