@@ -9,62 +9,11 @@
   "datasheet": "https://cdn.sparkfun.com/assets/8/9/9/a/6/VL53L0X_DS.pdf",
   "configOptions": [
     {
-      "type": "boolean",
-      "keyName": "useInterrupt",
-      "label": "Use Interrupt",
-      "defaultValue": false,
-      "required": false,
-      "style": "switch"
-    },
-    {
       "type": "select",
       "keyName": "intPin",
       "label": "Interrupt Pin",
       "required": false,
       "populationSources": ["board.DIO", "board.AIO"]
-    },
-    {
-      "type": "text",
-      "keyName": "test",
-      "label": "Test field",
-      "required": true,
-      "description": "field with max length 10",
-      "length": {
-        "max": 10
-      }
-    },
-    {
-      "type": "number",
-      "keyName": "testNumber",
-      "label": "De number",
-      "required": true,
-      "value": {
-        "min": 10,
-        "max": 30
-      },
-      "step": 5,
-      "description": "Quirky number field",
-      "defaultValue": 15
-    },
-    {
-      "type": "select",
-      "keyName": "selectTest",
-      "label": "Test select",
-      "required": true,
-      "options": [
-        {
-          "name": "First",
-          "value": 1
-        },
-        {
-          "name": "Second",
-          "value": "option"
-        },
-        {
-          "name": "Last",
-          "value": 4.6
-        }
-      ]
     }
   ],
   "tags": ["lidar", "vl5", "distance"],
