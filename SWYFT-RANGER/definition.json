@@ -1,6 +1,6 @@
 {
     "displayName": "Swyft Ranger Distance Sensor",
-    "type": "SWIFT-RANGER",
+    "type": "SWYFT-RANGER",
     "category": "SEN-DIST",
     "connectionTypes": [
         "AIO",
