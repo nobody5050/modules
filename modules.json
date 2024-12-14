@@ -8,7 +8,7 @@
   },
   {
     "displayName": "Swyft Ranger Distance Sensor",
-    "type": "SWYFT-RANGER",
+    "type": "SWYFTRANGER",
     "category": "SEN-DIST",
     "heroImgUrl": "https://swyftrobotics.com/cdn/shop/files/Picture1_e9589a3d-aa4e-42b9-9947-2ad6711cc1e9.png",
     "connectionTypes": ["AIO", "DIO"]

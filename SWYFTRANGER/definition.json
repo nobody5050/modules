@@ -1,6 +1,6 @@
 {
     "displayName": "Swyft Ranger Distance Sensor",
-    "type": "SWYFT-RANGER",
+    "type": "SWYFTRANGER",
     "category": "SEN-DIST",
     "connectionTypes": [
         "AIO",
@@ -9,8 +9,9 @@
     "storeLink": "https://swyftrobotics.com/products/swyft-ranger-distance-sensor",
     "heroImgUrl": "hero.jpg",
     "additionalImgUrls": [
-        "front.jpg",
-        "front-measured.jpg"
+        "disassembly.jpg",
+        "Swyft_Robotics_FLYSET.jpg",
+        "top.jpg"
     ],
     "datasheet": "https://docs.swyftrobotics.com/swyft-sensors/swyft-ranger",
     "configOptions": [],
