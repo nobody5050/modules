@@ -1,0 +1,28 @@
+{
+    "displayName": "Swyft Ranger Distance Sensor",
+    "type": "SWIFT-RANGER",
+    "category": "SEN-DIST",
+    "connectionTypes": [
+        "AIO",
+        "DIO"
+    ],
+    "storeLink": "https://swyftrobotics.com/products/swyft-ranger-distance-sensor",
+    "heroImgUrl": "hero.jpg",
+    "additionalImgUrls": [
+        "front.jpg",
+        "front-measured.jpg"
+    ],
+    "datasheet": "https://docs.swyftrobotics.com/swyft-sensors/swyft-ranger",
+    "configOptions": [],
+    "tags": [
+        "lidar",
+        "swyft",
+        "distance"
+    ],
+    "payloadConfig": [
+        {
+            "memberName": "dist",
+            "type": "ModulePayloadEntryTypeUInt16_t"
+        }
+    ]
+}

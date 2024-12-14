@@ -5,5 +5,12 @@
     "category": "SEN-DIST",
     "heroImgUrl": "https://cdn.lumynlabs.com/VL53L1X/images/hero.jpg",
     "connectionTypes": ["I2C"]
+  },
+  {
+    "displayName": "Swyft Ranger Distance Sensor",
+    "type": "SWYFT-RANGER",
+    "category": "SEN-DIST",
+    "heroImgUrl": "https://swyftrobotics.com/cdn/shop/files/Picture1_e9589a3d-aa4e-42b9-9947-2ad6711cc1e9.png",
+    "connectionTypes": ["AIO", "DIO"]
   }
 ]
